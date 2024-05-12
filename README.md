@@ -15,9 +15,9 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 - **JetPack Compose**
 
 ## 💼 Skills
-- **Languages**: Java, Kotlin, Python, TypeScript
-- **Frameworks/Libraries**: Jetpack Compose, AngularJS, Django
-- **Tools/Technologies**: Android Studio, IntelliJ IDEA
+- **Languages**: Java, Kotlin, Python, Dart, TypeScript
+- **Frameworks/Libraries**: Jetpack Compose, AngularJS, Django, Flutter
+- **Tools/Technologies**: Android Studio, IntelliJ IDEA, Pycharm
 
 ## 🚀 What I'm passionate about
 - Tackling intricate challenges
