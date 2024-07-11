@@ -6,14 +6,6 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 
 - 💻 I'm an avid Linux user and a passionate advocate for open-source software.
 
-## 🔭 I’m currently working on
-- **DataForge**: "Contribution to the creation of interfaces for managing Machine Learning learning."
-
-## 🌱 I’m currently learning
-- **AngularJS**
-- **Django**
-- **JetPack Compose**
-
 ## 💼 Skills
 - **Languages**: Java, Kotlin, Python, Dart, TypeScript
 - **Frameworks/Libraries**: Jetpack Compose, AngularJS, Django, Flutter
