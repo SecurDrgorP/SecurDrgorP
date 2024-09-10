@@ -6,11 +6,6 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 
 - 💻 I'm an avid Linux user and a passionate advocate for open-source software.
 
-## 💼 Skills
-- **Languages**: Java, Kotlin, Python, Dart, TypeScript
-- **Frameworks/Libraries**: Jetpack Compose, AngularJS, Django, Flutter
-- **Tools/Technologies**: Android Studio, IntelliJ IDEA, Pycharm
-
 ## 🚀 What I'm passionate about
 - Tackling intricate challenges
 - Exploring novel technologies
