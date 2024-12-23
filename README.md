@@ -15,7 +15,7 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 
 ## 📫 How to reach me
 - Email: [zakaria.cherraj01@gmail.com](mailto:zakaria.cherraj01@gmail.com)
-- LinkedIn: [ZAKARIAA CHARRAJ(https://www.linkedin.com/in/zakariaa-charraj)
+- LinkedIn: [ZAKARIAA CHARRAJ](https://www.linkedin.com/in/zakariaa-charraj)
 <!--
 ## 📈 GitHub Stats
 
