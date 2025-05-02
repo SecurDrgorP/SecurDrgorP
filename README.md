@@ -13,6 +13,10 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 - Engaging in open-source endeavors
 - Guiding and fostering knowledge exchange
 
+## 📈 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MedTahiri&show_icons=true&theme=radical)](https://github.com/MedTahiri)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MedTahiri&hide=Jupyter%20Notebook&layout=compact&theme=radical)
+
 ## 📫 How to reach me
 - Email: [zakaria.cherraj01@gmail.com](mailto:zakaria.cherraj01@gmail.com)
 - LinkedIn: [ZAKARIAA CHARRAJ](https://www.linkedin.com/in/zakariaa-charraj)
