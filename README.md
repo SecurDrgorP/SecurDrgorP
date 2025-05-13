@@ -13,15 +13,6 @@ I'm a passionate software engineer with a keen interest in exploring and learnin
 - Engaging in open-source endeavors
 - Guiding and fostering knowledge exchange
 
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/SecurDrgorP">
-    <img src="https://github-readme-stats.vercel.app/api?username=SecurDrgorP&show_icons=true&theme=radical" alt="GitHub stats"/>
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecurDrgorP&hide=Jupyter%20Notebook&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
 ## 📫 How to reach me
 - Email: [zakaria.cherraj01@gmail.com](mailto:zakaria.cherraj01@gmail.com)
 - LinkedIn: [ZAKARIAA CHARRAJ](https://www.linkedin.com/in/zakariaa-charraj)
